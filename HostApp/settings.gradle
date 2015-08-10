@@ -1,1 +1,1 @@
-include ':app', ':externallibex'
+include ':externallibex'
